@@ -6,6 +6,4 @@ class Diesel {
         Implementation.measurement();
     }
 
-    //Calculate for diesel depending to no.of litres
-
 }
